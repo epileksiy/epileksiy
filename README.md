@@ -5,7 +5,7 @@
 
 -  I’m looking to collaborate on **AR/VR/MixAR projects, graphical digital art 👯**
 
--  Some of my projects are available at [https://epileksiy.github.io/modernport/](my business card site) 👨‍💻
+-  Some of my projects are available at [my business card site](https://epileksiy.github.io/modernport/) 👨‍💻
 
 
 <h2 align="left">Contact with me:</h3>
