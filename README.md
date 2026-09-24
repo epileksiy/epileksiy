@@ -5,8 +5,8 @@
 
 -  I’m looking to collaborate on **Engineering, drone projects, graphical digital art, creative frontend and so on 👯**
 
--  Some of my projects are available at [my business card site](https://epileksiy.github.io/modernport/) 👨‍💻
--  My personal site available at [gigarussian shop](https://gigarrussian.ru) 🇷🇺
+-  Some of my projects are available at [my old portfolio site](https://epileksiy.github.io/modernport/) 👨‍💻
+-  My personal site available at [gigarussian shop](https://gigarussian.ru) 🇷🇺
 
 
 <h2 align="left">Contact with me:</h3>
