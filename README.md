@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Alex!</h1>
 <h2 align="center">A multishaped dev from Russia, Moscow</h3>
 
--  I’m currently studying in Skolkovo Institute of Science and Technology: **Intelligent Space Robotics Laboratory 🔭**
+-  I’m working in Skolkovo Institute of Science and Technology: **Intelligent Space Robotics Laboratory 🔭**
 
--  I’m looking to collaborate on **AR/VR/MixAR projects, graphical digital art 👯**
+-  I’m looking to collaborate on **Engineering, drone projects, graphical digital art, creative frontend and so on 👯**
 
 -  Some of my projects are available at [my business card site](https://epileksiy.github.io/modernport/) 👨‍💻
+-  My personal site available at [gigarussian shop](https://gigarrussian.ru) 🇷🇺
 
 
 <h2 align="left">Contact with me:</h3>
