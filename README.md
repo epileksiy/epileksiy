@@ -11,7 +11,7 @@
 
 <h2 align="left">Contact with me:</h3>
 <p align="left">
-<a href="https://instagram.com/sadhighkid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sadhighkid" height="30" width="40" /></a> <a href="https://t.me/gigarussian" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="leshquin" height="40" width="40" /></a>
+<a href="https://instagram.com/sadhighkid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sadhighkid" height="30" width="40" /></a> <a href="https://t.me/gigarussian" target="blank"><img align="center" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/960px-Telegram_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail)" alt="leshquin" height="40" width="40" /></a>
 </p>
 
 <h2 align="left">Tech Stack:</h3>
